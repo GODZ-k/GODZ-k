@@ -3,9 +3,9 @@
 I'm Tanmay, an aspiring Django web developer passionate about crafting digital experiences and bringing ideas to life.
 
 <!-- 🌐 **Portfolio:** [Your Portfolio Website](https://yourportfolio.com) -->
-- 📬 **Email:** [Click here](tanmaykhatri07726@gmail.com)
-- 📱 **LinkedIn:** [Tanmay khatri ](https://www.linkedin.com/in/tanmay-khatri-6190961b2)
-- 🤘 **Instagram:**[Tanmay khatri](https://instagram.com/tanmaykhatri__?igshid=ZDdkNTZiNTM=)
+- 📬 **Email:** tanmaykhatri07726@gmail.com
+- 📱 **LinkedIn:** [ Profile ](https://www.linkedin.com/in/tanmay-khatri-6190961b2)
+- 🤘 **Instagram:**[ Profile ](https://instagram.com/tanmaykhatri__?igshid=ZDdkNTZiNTM=)
 - 🚀 **GitHub:** [GitHub Profile](https://github.com/GODZ-k)
 
 ## 💼 Skills & Tools
