@@ -5,7 +5,7 @@ I'm Tanmay, an aspiring Django web developer passionate about crafting digital e
 <!-- 🌐 **Portfolio:** [Your Portfolio Website](https://yourportfolio.com) -->
 - 📬 **Email:** [Tanmay khatri ](tanmaykhatri07726@gmail.com)
 - 📱 **LinkedIn:** [Tanmay khatri ](https://www.linkedin.com/in/tanmay-khatri-6190961b2)
-      **Instagram**[Tanmay khatri](https://instagram.com/tanmaykhatri__?igshid=ZDdkNTZiNTM=)
+- 🤘 **Instagram**[Tanmay khatri](https://instagram.com/tanmaykhatri__?igshid=ZDdkNTZiNTM=)
 - 🚀 **GitHub:** [GitHub Profile](https://github.com/yourusername)
 
 ## 💼 Skills & Tools
@@ -30,6 +30,11 @@ Here are a few projects I've worked on:
    - Creating a user authentication CRUD (Create, Read, Update, Delete) app in Django involves building a web application that allows users to perform these four basic operations (Create, Read, Update, Delete) on user accounts. This is a fundamental part of many web applications, especially those that require user registration, login, and management.
    - GitHub Repository: [Click here](https://github.com/GODZ-k/Django_Advance_CRUD_Recipe_App.git)
    - Demo: [Click here](https://curdvegapp.pythonanywhere.com)
+3. **Multipage E-commerce Website**
+   - 2. **Django Advance Authentication CRUD Recipe App**
+   - BUILD AND DEPLOY FULLY RESPONSIVE E-COMMERCE WEBSITES USING HTML CSS & JAVASCRIPT in this project, we will build and deploy a full multipage e-commerce website completely from scratch step by step. Will Create from responsive navbar using HTML CSS and JavaScript to responsive footer.
+   - GitHub Repository: [Click here](https://github.com/GODZ-k/Build-and-Deploy-Ecommerce-Website.git)
+   - Demo: [Click here](https://lovely-bavarois-e53407.netlify.app/)
 
 ## 📚 Learning Journey
 
