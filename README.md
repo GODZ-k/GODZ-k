@@ -10,9 +10,9 @@ I'm Tanmay, an aspiring Django web developer passionate about crafting digital e
 
 ## 💼 Skills & Tools
 
-- **Languages:** Python, HTML, CSS, JavaScript , Django 
-- **Web Framework:** Django , Bootstrap , React js
-- **Version Control:** Git
+- **Languages:** Python, HTML, CSS, JavaScript 
+- **Web Framework:** Django , Bootstrap , React js , Tailwind
+- **Version Control:** Git , Github , Docker
 - **Databases:** SQLite, PostgreSQL , MYSQL
 - **Tools:** VS Code, Git, Pythonanywere , Vercel , Netify , Amazon AWS 
 
